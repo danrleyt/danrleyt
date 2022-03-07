@@ -4,7 +4,7 @@ I'm a Software Engineer with an international career, currently I am adventuring
 
 I started my career as a Frontend Engineer and with time I have been momving to the Backend where I am currently focusing on, although I love both words ❤️.
 
-I have a passion for learning, having fun and enjoying some beer with friends.
+I have a passion for learning, having fun and enjoying some beers with friends.
 
 You can contact and learn more about me visiting my [website](https://danrleyt.github.io/).
 

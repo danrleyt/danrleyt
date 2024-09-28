@@ -1,8 +1,8 @@
 ### Hi, I'm Dan 👋
 
-I'm a Software Engineer with an international career, currently working at Just Eat Takeaway.com as a Backend Developer. 
+I'm a Software Engineer with an international career, currently working at Just Eat Takeaway.com as a Senior Backend Developer. 
 
-I started my career as a Frontend Engineer and with time I have been moving to the Backend where I am currently focusing on, although I love both words ❤️.
+I started my career as a Frontend Engineer and with time I have been moving to the Backend where I am currently focusing on, although I love both worlds ❤️.
 
 I have a passion for learning, having fun and enjoying some beers with friends.
 
